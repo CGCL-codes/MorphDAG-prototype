@@ -1,0 +1,6 @@
+
+.vscode
+
+*.log
+chaindata_*
+statedata_*
